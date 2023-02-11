@@ -63,5 +63,8 @@ textarea {
   }
   
 
-/*273549   color de los campos de texto*/
+footer {
+    margin-left: auto;
+    margin-right: auto;
+}
 
